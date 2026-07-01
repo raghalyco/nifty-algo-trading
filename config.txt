@@ -1,0 +1,6 @@
+[ZERODHA]
+user_id = GL4183
+password = ALSP_Muthu_20_12_18
+totp_secret = BSWZDZJ6IPCH4T627UF67RS57AT5TNJE
+api_key = 7g6jn8cbel1pybuv
+api_secret = 6gz7qpuuc93nbtleaz10g4yne2gjz8og
